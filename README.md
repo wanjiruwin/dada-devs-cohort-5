@@ -19,13 +19,14 @@ To add yourself:
 
    ```
    [your name] @yourhandle
+   X: @yourhandle | LinkedIn: /in/yourhandle | Discord: yourhandle#0000
 
    "why I'm here ..."
    ```
 
 3. Commit your change, push to your fork, and open a pull request against `main`.
 
-Please keep your entry concise — a short line for your name/handle, and one sentence on why you're here.
+Please keep your entry concise — a short line for your name/handle, your social links, and one sentence on why you're here.
 
 ## Code of Conduct
 
